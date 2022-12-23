@@ -1,0 +1,25 @@
+html {
+    color:rgb(255, 255, 255);
+    background-color:rgb(16, 2, 50);
+    font-family:Verdana;
+}
+
+}
+img {
+    width: 5%;
+    margin: 20px;
+}
+
+
+#cv {
+    color:rgb(96, 118, 119);
+    font-family:'Lucida Sans';
+    font-size: 45px;
+    
+}
+
+.diplome {
+    color:aliceblue;
+}
+
+
